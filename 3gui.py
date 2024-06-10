@@ -1,6 +1,6 @@
-Here's an extended example of a graphical user interface (GUI) for airgeddon using Python and Tkinter. This example demonstrates integrating the previously discussed features such as detailed descriptions, tooltips, validation checks, error handling, autosave, and export/import functionality. Keep in mind that you'll need to customize it further and integrate it with the existing airgeddon codebase based on the specific requirements and features discussed earlier.
+## Here's an extended example of a graphical user interface (GUI) for airgeddon using Python and Tkinter. This example demonstrates integrating the previously discussed features such as detailed descriptions, tooltips, validation checks, error handling, autosave, and export/import functionality. Keep in mind that you'll need to customize it further and integrate it with the existing airgeddon codebase based on the specific requirements and features discussed earlier.
 
-Please note that creating a full-featured and user-friendly GUI for airgeddon requires significant effort and time. This example only serves as a starting point to help you understand how to create a more advanced GUI for airgeddon using Python and Tkinter.
+## Please note that creating a full-featured and user-friendly GUI for airgeddon requires significant effort and time. This example only serves as a starting point to help you understand how to create a more advanced GUI for airgeddon using Python and Tkinter.
 
 ```python
 import tkinter as tk
